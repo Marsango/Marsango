@@ -1,5 +1,4 @@
 
 - 📚 Computer engineering at UTFPR
-- 🌱 Web scraping engineer
-
+- 🌱 Web scraping
 
